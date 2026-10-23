@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** that analyses a survey of **612 criminal j
 
 > **Key finding:** Views are moderately positive (60% agree, average score 3.67 / 5) and similar across groups. The weakest area is the **practical use** of DNA profiling in criminal investigation.
 
-![Dashboard preview](Screenshot/dashboard.png)
+![Dashboard preview](Screenshot/Dashboard.png)
 <!-- Add a screenshot of your dashboard at images/dashboard.png -->
 
 ---
