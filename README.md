@@ -223,7 +223,7 @@ dna-profiling-dashboard/
 |-- dashboard/
 |   |-- DNA_Profiling_Dashboard.pbix
 |   `-- Neon_Purple_Exact_Theme.json
-`-- images/
+`-- Screenshot/
     `-- dashboard.png
 ```
 
