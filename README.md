@@ -192,11 +192,11 @@ The report has **one page** with 13 visuals, designed to read from top to bottom
 | Statements | Bar chart of Agree % by statement | Agreement for individual statements |
 | Group comparison | Agree % by Age Group, Region and Professional Background | How similar or different the groups are |
 
-## Screenshot
+## Screenshots
 
-Dashboard images are stored in the `Screenshot/` folder.
+Dashboard images are stored in the `Screenshots/` folder.
 
-![Dashboard](Screenshot/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Key Findings
 
