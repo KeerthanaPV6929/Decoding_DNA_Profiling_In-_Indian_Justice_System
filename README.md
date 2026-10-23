@@ -196,7 +196,7 @@ The report has **one page** with 13 visuals, designed to read from top to bottom
 
 Dashboard images are stored in the `Screenshots/` folder.
 
-![Dashboard](Criminal_powerbi/Screenshots/Dashboard.png)
+![Dashboard](Crimanal_powerbi/Screenshots/Dashboard.png)
 
 ## Key Findings
 
