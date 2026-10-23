@@ -24,8 +24,7 @@ An interactive **Power BI dashboard** that analyses a survey of **612 criminal j
 11. [Limitations](#limitations)
 12. [Future Work](#future-work)
 13. [How to Use](#how-to-use)
-14. [Suggested Repository Structure](#suggested-repository-structure)
-15. [Author](#author)
+14. [Author](#author)
 
 ---
 
@@ -209,21 +208,4 @@ To rebuild from the source data:
 2. Load the lookup tables from `Dim_Tables.xlsx`.
 3. Recreate the relationships and DAX measures listed above.
 4. Import `Neon_Purple_Exact_Theme.json` from **View > Themes > Browse for themes**.
-
-## Suggested Repository Structure
-
-```
-dna-profiling-dashboard/
-|-- README.md
-|-- data/
-|   |-- Coded_Survey_Dataset.xlsx
-|   |-- Dim_Tables.xlsx
-|   |-- Code_Book.docx
-|   `-- Questionnaire.docx
-|-- dashboard/
-|   |-- DNA_Profiling_Dashboard.pbix
-|   `-- Neon_Purple_Exact_Theme.json
-`-- Screenshot/
-    `-- dashboard.png
-```
 
