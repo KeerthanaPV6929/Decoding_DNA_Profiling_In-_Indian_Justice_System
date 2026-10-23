@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** that analyses a survey of **612 criminal j
 
 > **Key finding:** Views are moderately positive (60% agree, average score 3.67 / 5) and similar across groups. The weakest area is the **practical use** of DNA profiling in criminal investigation.
 
-![Dashboard preview](Screenshots/Dashboard.png)
+![Dashboard preview](Screenshot/Dashboard.png)
 
 ---
 
@@ -19,13 +19,12 @@ An interactive **Power BI dashboard** that analyses a survey of **612 criminal j
 7. [Data Preparation](#data-preparation)
 8. [Data Model](#data-model)
 9. [DAX Measures](#dax-measures)
-10. [Dashboard Walkthrough](#dashboard-walkthrough)
-11. [Screenshots](#screenshots)
+10. [Dashboard Walkthrough](#Dashboard-walkthrough)
+11. [Screenshot](#screenshot)
 12. [Key Findings](#key-findings)
 13. [Limitations](#limitations)
 14. [Future Work](#future-work)
 15. [How to Use](#how-to-use)
-16. [Author](#author)
 
 ---
 
@@ -53,7 +52,7 @@ Criminal_powerbi/
 |-- Coded_Survey_Dataset.xlsx            Survey data (612 respondents)
 |-- Code_Book_1.docx                     Meaning of every code and statement
 |-- Questionnaire_1.docx                 Original survey questionnaire
-`-- Screenshots/                         Dashboard images
+`-- Screenshot/                         Dashboard images
 ```
 
 | File | Description |
@@ -195,7 +194,7 @@ The report has **one page** with 13 visuals, designed to read from top to bottom
 | Statements | Bar chart of Agree % by statement | Agreement for individual statements |
 | Group comparison | Agree % by Age Group, Region and Professional Background | How similar or different the groups are |
 
-## Screenshots
+## Screenshot
 
 Dashboard images are stored in the `Screenshots/` folder.
 
@@ -240,8 +239,3 @@ To rebuild from the source data:
 
 Use `Code_Book_1.docx` to look up what each code and statement means.
 
-## Author
-
-**Your Name**
-Your college or organisation
-Contact: your-email@example.com
